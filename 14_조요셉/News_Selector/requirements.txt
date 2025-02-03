@@ -1,3 +1,4 @@
 praisonaiagents
 duckduckgo_search
 streamlit
+openai
