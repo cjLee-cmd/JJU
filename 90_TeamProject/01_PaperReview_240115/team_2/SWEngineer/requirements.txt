@@ -1,0 +1,16 @@
+langchain
+langchain-chroma
+langchain-openai
+langchain-teddynote
+langchain-community
+langchain-experimental
+
+python-dotenv
+pysqlite3-binary
+streamlit
+pymupdf
+python-dotenv
+chromadb
+pymongo
+pydantic
+pyyaml
