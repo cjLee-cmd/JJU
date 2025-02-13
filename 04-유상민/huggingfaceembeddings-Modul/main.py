@@ -73,5 +73,5 @@ def main(input_data):
 
 
 if __name__ == "__main__":
-    input_data = "/workspaces/JJU-1/04-유상민/huggingfaceembeddings-Modul/논문1.pdf"  # 여기에 실제 파일 경로 입력
+    input_data = "/Users/yusangmin/Documents/GitHub/JJU-1/04-유상민/huggingfaceembeddings-Modul/논문1.pdf"  # 여기에 실제 파일 경로 입력
     main(input_data)
