@@ -7,6 +7,7 @@ load_dotenv()
 
 # API 키 설정
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+HUGGINGFACE_API_KEY = os.getenv('HUGGINGFACE_API_KEY')
 
 # 파일 확장자와 MIME 타입 매핑 - PDF 파일만 사용
 EXTENSION_MIME_MAPPING = {'.pdf': 'application/pdf'}
